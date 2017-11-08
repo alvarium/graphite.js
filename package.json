@@ -1,0 +1,22 @@
+{
+  "name": "graphite.js",
+  "version": "1.0.0",
+  "description": "a javascript client library for interfacing with the graphite render api http://xor.lonnen.com/graphite.js/",
+  "main": "graphite.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarium/graphite.js.git"
+  },
+  "author": "Lonnen",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/alvarium/graphite.js/issues"
+  },
+  "homepage": "https://github.com/alvarium/graphite.js#readme"
+}
