@@ -1,5 +1,5 @@
 {
-  "name": "graphite.js",
+  "name": "alvarium-graphite.js",
   "version": "1.0.0",
   "description": "a javascript client library for interfacing with the graphite render api http://xor.lonnen.com/graphite.js/",
   "main": "graphite.js",
