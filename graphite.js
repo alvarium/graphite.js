@@ -2,7 +2,7 @@
   if(typeof define === "function" && define.amd) {
     define(["Graphite"], factory);
   } else if(typeof module === "object" && module.exports) {
-    module.exports = factory(require("Graphite"));
+    module.exports.Graphite = factory(require("Graphite"));
   } else {
     root.Graphite = factory(root.Graphite);
   }
